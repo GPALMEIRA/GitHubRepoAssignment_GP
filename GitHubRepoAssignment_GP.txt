@@ -1,0 +1,8 @@
+1 Create the directory using mkdir
+2. Initialyzing the Git using git init
+3. Create the file using touch
+4. Adding to the repository using git add .
+5. Committing using git commit -m “”
+6. Creating the repository in GitHub.com
+7. Executing the scripts suggested for the repository folder
+8. Check the files in the repository
