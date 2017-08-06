@@ -1,0 +1,26 @@
+p{
+  color: blue;
+}
+#important{
+  color: red;
+  font-size: 24px;
+  font: helvetica;
+}
+.info{
+  color: black;
+  background-color: grey;
+  border: 1px solid red;
+}
+#test_menu {
+  list-style-type: none;
+}
+#test_menu li{
+  display: inline;
+}
+a{
+  margin: 10px;
+  background: #eeef;
+  color: black;
+  padding: 10px;
+  display: block;
+}
